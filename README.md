@@ -1,6 +1,6 @@
 <img align="center" width="800" src="./img/ler.png">
 
-# Person-Kernel-Tweal 🥶
+# Person-Kernel-Tweak 🥶
 improve the performance and efficiency of Android devices by customizing various system and kernel settings
 # Requirements ❓
 - Basic knowledge of Android modifications.
