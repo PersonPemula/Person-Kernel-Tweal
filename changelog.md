@@ -27,4 +27,8 @@ Nilai uclamp.max dan uclamp.min disederhanakan dengan mengatur max dan 10 secara
 - Pengaturan Lainnya:
 read_wakeup_threshold dan write_wakeup_threshold diubah menjadi 2048 untuk mengoptimalkan entropi.
 - sysctl_writes_strict dan sched_tunable_scaling diubah menjadi 0 untuk mengurangi pembatasan pada penulisan sysctl dan scaling penjadwalan.
-
+# Changelog V4.3.8 (271224)
+- Miror Fix And Improvement
+- Rewrite Logic To C Script
+- Implement Disable Logs, Logging Apps
+- Implement Interactivex Governor
